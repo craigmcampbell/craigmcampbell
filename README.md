@@ -8,5 +8,5 @@ I've been a software engineer for more than 23 years. I am still actively writin
 
 One of my favorite things to do is help teams analyze their current processes and then collaborate to build a product that increases flexibility and efficiency. A recent success was developing a web application that replaced the usage of 6 different tools to manage continuing education for healthcare providers. This project was so successful that it was licensed out to other Universities and I am credited as an inventor of the product.
 
-- 🔭 I’m currently working on a new version of my email management tool
-- 🌱 I’m currently learning React, GraphQL, and Tailwind
+- 🔭 I’m currently working on a new version of my templated [email management tool](https://github.com/craigmcampbell/Hermes-API)
+- 🌱 My current toolset includes Postgres, Node, React, GraphQL (Apollo), and Material UI
