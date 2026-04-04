@@ -1,18 +1,63 @@
-### Hi there 👋
+# Hey, I'm Craig 👋
 
-[<img src="https://aux.iconspalace.com/uploads/linkedin-flat-icon-256.png" height="32" width="32" />](https://www.linkedin.com/in/cmcampbell24/) [<img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-twitter-icon.png" height="36" width="36" />](https://twitter.com/developerfoodie)
+Engineering leader with 15+ years building teams, shipping products, and embedding AI into how software gets made. Currently **Head of Engineering at [EV Life](https://evlife.co)**.
 
-### Current Roles
-- Head of Engineering at [EV Life](https://evlife.co), where we help drivers save big on driving electric
-- (Part Time) Co-founder and CTO of [Hedado](https://hedado.com), where we help empower anyone to be a philanthropist.
+I care about two things above all: building engineers into leaders, and using technology to solve problems that actually matter.
 
-I am an engineering leader who remains actively engaged in coding while continually investing in engineering leadership. I prioritize ongoing learning to stay current on the constantly evolving technology landscape. Additionally, I derive satisfaction from fostering collaborations with stakeholders and customers to enhance product development and refinement.
+---
 
-- 🧰 To see what tools I use, check out my [Development Toolkit](https://github.com/craigmcampbell/development-toolkit)
-- 🔭 I’m currently [learning GoLang](https://github.com/craigmcampbell/learning-go)
-- 🌱 My current toolset includes Postgres, Node/NestJS, React/Next, Go, and Tailwind
+## What I'm working on
 
-### Communities
-- [On Deck](https://beondeck.com/) alumni - OD50-1 and ODF9
-- [NEXT Careers](https://www.nextcareers.co/)
-- [Ness Labs Learning Community](https://nesslabs.com/membership)
+- 🤖 Building RAG-based AI systems for real-time monitoring and decision support
+- 🔌 Experimenting with **MCP servers** and agentic workflows in day-to-day engineering
+- 🧠 Building a local AI stack: **Ollama + DeepSeek + ChromaDB + Obsidian** for personal knowledge retrieval
+
+---
+
+## A few things I've shipped
+
+- **RAG monitoring system** — detects EV incentive changes across 443 programs, 789 data sources, and 46 states; improved detection accuracy from 10% → 90% and cut 8 hours/week of manual research to 15 minutes
+- **Loan origination platform** — integrated Plaid, KBB, and multiple financial APIs to reduce per-application processing time from 6 hours → 30 minutes for a 50+ app/week ops team
+- **ECHO Colorado** — unified 7 fragmented web apps into a multi-tenant SaaS platform serving 15,000+ users across 3 states
+- **Hedado** — co-founded a philanthropic giving platform that mobilized $2M+ in charitable donations
+
+---
+
+## Stack
+
+```
+Languages:   TypeScript · Python · Go · SQL · C#
+Frontend:    React · Next.js · Tailwind CSS
+Backend:     Node.js · NestJS · REST · GraphQL
+AI/LLM:      RAG · Anthropic API · MCP Servers · Agentic Workflows
+Infra:       AWS (CDK, ECS/Fargate) · PostgreSQL · CI/CD
+Compliance:  SOC 2 Type 2
+```
+
+---
+
+## I've led teams at
+
+| Company | Role | Stage |
+|---|---|---|
+| EV Life | Head of Engineering | Growth-stage startup |
+| Overflow | Director of Engineering | Series A |
+| Hedado | Co-Founder & CTO | 0→1 |
+| Univ. of Colorado – Anschutz | Engineering Manager | Healthcare / Academic |
+
+---
+
+## Writing
+
+- 📝 [I Spent a Weekend Reverse-Engineering AI Chatbots. Here's What I Learned.](https://www.linkedin.com/posts/cmcampbell24_i-spent-a-weekend-reverse-engineering-ai-activity-7444920725733478400-gqGZ)
+- 📝 [How We Replaced Hours of Manual Work with a RAG Pipeline (and What Made It Hard)](https://www.linkedin.com/posts/cmcampbell24_at-ev-life-we-had-a-manual-problem-every-activity-7435374118209871872-1FBc)
+
+---
+
+## Let's connect
+
+I'm always happy to talk about engineering leadership, AI in production, team-building, or anything in the intersection of tech and social impact.
+
+- 🌐 [craigcampbell.tech](https://craigcampbell.tech)
+- 💼 [linkedin.com/in/cmcampbell24](https://linkedin.com/in/cmcampbell24)
+- 📬 cc@craigcampbell.tech
